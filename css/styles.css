@@ -10,22 +10,33 @@ p {
     font-size: 1rem;
 }
 
-.fuente {
-    font-size: 220%;
+.h1p {
+    font-size: 55px;
     text-align: center;
 }
 
 .titulo {
     background-image: url(../img/banner-2.jpg);
     height: 100vh;
+    background-position: center;
     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+}
+
+.padding {
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.padding2 {
+    padding-left: 4%;
+}
+
+.padding3 {
+    padding-left: 4%;
+    padding-right: 4%;
 }
 
 .section2 {
@@ -35,15 +46,15 @@ p {
 
 .section1 {
     height: 100%;
-    width: 100%;
+    width: 75%;
 }
 
 .h1 {
-    font-size: 360%;
+    font-size: 65px;
 }
 
 .p1 {
-    font-size: 220%;
+    font-size: 40px;
 }
 
 .p2 {
@@ -63,11 +74,11 @@ p {
 }
 
 .h4 {
-    font-size: 300%;
+    font-size: 75px;
 }
 
 .p4 {
-    font-size: 220%;
+    font-size: 80px;
 }
 
 .imgc3 {
@@ -77,11 +88,11 @@ p {
 
 .h2 {
     text-align: center;
-    font-size: 300%;
+    font-size: 75px;
 }
 
 .fondo {
-    background-color: rgb(127, 255, 176);
+    background-color: rgb(7, 248, 176);
 }
 
 .img4 {
@@ -106,7 +117,7 @@ h5 {
 }
 
 .h6 {
-    font-size: 300%;
+    font-size: 80px;
     text-align: center;
 }
 
@@ -125,21 +136,24 @@ body {
     margin: 0;
 }
 
-.fondos {
+.fondof {
     background-color: black;
+    padding: 3%;
 }
 
 .p3 {
     color: white;
-    padding-left: 30%;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .p4 {
-    color: white;
-    padding-left: 30%;
-    font-size: 20px;
+    font-size: 45px;
     text-align: left;
+}
+
+.pf {
+    color: white;
+    padding-left: 10%;
 }
 
 .miami {
@@ -165,7 +179,7 @@ body {
 }
 
 .title2 {
-    background-color: lightblue;
+    background-color: rgb(41, 159, 249);
     margin-top: -4px;
 }
 
