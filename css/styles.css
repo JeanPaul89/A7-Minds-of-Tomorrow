@@ -239,14 +239,15 @@ body {
         width: 50%;
     }
     .titulo {
-        font-size: 350%;
+        font-size: 43px;
     }
     .h1 {
-        padding: 5%;
-        font-size: 340%;
+        padding-left: 3%;
+        padding-right: 3%;
+        font-size: 41px;
     }
     .p1 {
-        padding: 5%;
+        padding: 3%;
         font-size: 30px;
     }
     .section1 {
@@ -259,7 +260,7 @@ body {
     }
     .h4 {
         padding-left: 10%;
-        padding-right: 10%;
+        padding-right: 5%;
         font-size: 35px;
     }
     .p4 {
